@@ -143,5 +143,5 @@ Data Science Enthusiast | Machine Learning | AI
 
 # Connect With Me
 
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername
+LinkedIn: https://linkedin.com/in/pratik-sidam-60b26881  
+GitHub: https://github.com/pratik418
